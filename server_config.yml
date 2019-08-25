@@ -1,0 +1,13 @@
+amplifier:
+  min_threshold: 10
+  multiplier: 4
+super_bar_threshold: 10
+microphone:
+  sample_rate: 44100
+  refresh_rate: 60
+led_pixels: 30
+device:
+  port: 10001
+  ips:
+    - 192.168.0.43
+    - 192.168.100.44
